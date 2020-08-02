@@ -45,6 +45,6 @@ public class Container {
 
     @Override
     public String toString() {
-        return this.liquid + "/100";
+        return (this.liquid + "/100");
     }
 }
